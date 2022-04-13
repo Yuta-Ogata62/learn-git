@@ -1,3 +1,3 @@
-console.log("anyohaseyo")
+console.log("bye")
 
 
