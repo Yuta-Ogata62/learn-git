@@ -1,3 +1,3 @@
-console.log("Konnichiwa")
+console.log("anyohaseyo")
 
 
